@@ -1,0 +1,43 @@
+.p{
+    margin-top:10px;
+    margin-left:1450px
+}
+.p-1{
+    width:20px;
+    height:20px;
+    margin-bottom: 5px;
+    margin-left:-80px
+}
+.p-2{
+    margin-top: -25px;
+    margin-left: -70px;
+    text-decoration:none;
+}
+.p-3{
+    margin-top: -33px;
+    margin-left: -100px;
+    text-decoration: none;
+}
+.p-4{
+    margin-top: 80px;
+    margin-left: 600px;
+}
+.path{
+    clip-path: circle(50% at 50% 50%);
+}
+.p-5{
+    background-color: white;
+    width:550px;
+    height:45px;
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 30px;
+     -webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.59);
+-moz-box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.59);
+box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.59);
+}
+.box{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    
+}
